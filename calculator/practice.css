@@ -1,0 +1,8 @@
+function ShowDemo(){
+    let name =Number(document: .get;Element By Id("name").value);
+    let age =Number(document: .get;Element By ID("name").value);
+    let sum = name + age;
+    Documnet .grt Elemnt By id("Ooutput").inner html =
+    "<h2>Resulted value </h2>" + sum +"<br><br>" +"<b> Arry Elements </b><br>";
+    
+}
